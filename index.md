@@ -44,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 //②true②
 //是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
 
-//③555666③
+//③362233③
 //远程密码设置
 
 //④657949738④
