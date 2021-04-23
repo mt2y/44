@@ -41,17 +41,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 //远程公告内容
 
-//<kl>true<kl>
+//②true②
 //是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
 
-//<ml>555666<ml>
+//③555666③
 //远程密码设置
 
-//<gi>657949738<gi>
+//④657949738④
 //qq号
 
-//<yt>true<yt>
+//⑤true⑤
 //是否强制更新(lp)   lp=true 需要  ||| lp=flase 不需要
 
-//<lkl>链接<lkl>
+//⑥链接⑥
 //更新链接
