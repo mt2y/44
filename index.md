@@ -35,3 +35,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+//<bn>内容<bn>
+//远程公告内容
+
+//<kl>true<kl>
+//是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
+
+//<ml>555666<ml>
+//远程密码设置
+
+//<gi>657949738<gi>
+//qq号
+
+//<yt>true<yt>
+//是否强制更新(lp)   lp=true 需要  ||| lp=flase 不需要
+
+//<lkl>链接<lkl>
+//更新链接
