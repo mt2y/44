@@ -37,21 +37,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-//①先挂着①
 
-//远程公告内容
-
-//②true②
-//是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
-
-//③362233③
-//远程密码设置
-
-//④838298041④
-//qq号
-
-//⑤true⑤
-//是否强制更新(lp)   lp=true 需要  ||| lp=flase 不需要
-
-//⑥链接⑥
-//更新链接
+①你妈死了① 
+//远程公告内容 
+②false②
+ //是否需要输入密码(kill) kill=true 需要 ||| kill=false 不需要 
+③说梦话抱歉③ 
+//远程密码设置 
+④3617302640④ 
+//qq号 
+⑤696771902⑤ 
+//群号 
+⑥true⑥ 
+//是否强制更新(lp) lp=true 需要 ||| lp=false 不需要 
+⑦链接⑦ 
+//更新链接 
+⑧内容⑧ 
+//更新内容 
+⑨文字⑨ 
+//公告确认按钮 
+①①公告标题①① 
+//公告标题
