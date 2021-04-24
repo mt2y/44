@@ -38,11 +38,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-①你妈死了① 
+①挂着① 
 //远程公告内容 
-②false②
+②true②
  //是否需要输入密码(kill) kill=true 需要 ||| kill=false 不需要 
-③说梦话抱歉③ 
+③mt2y③ 
 //远程密码设置 
 ④3617302640④ 
 //qq号 
@@ -54,7 +54,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 //更新链接 
 ⑧内容⑧ 
 //更新内容 
-⑨文字⑨ 
+⑨确认⑨ 
 //公告确认按钮 
-①①公告标题①① 
+①①更新提示①① 
 //公告标题
